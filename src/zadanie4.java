@@ -1,4 +1,4 @@
-public class gwiazdki {
+public class zadanie4 {
     public static void main(String[] args) {
         char letter;
         letter = 'A';
